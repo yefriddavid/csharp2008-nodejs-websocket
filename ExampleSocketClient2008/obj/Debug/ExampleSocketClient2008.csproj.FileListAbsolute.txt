@@ -1,0 +1,11 @@
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\ExampleSocketClient2008.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\ExampleSocketClient2008.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\obj\Debug\ExampleSocketClient2008.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\obj\Debug\ExampleSocketClient2008.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.Common.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.Networking.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.WebSocket.dll
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.Common.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.WebSocket.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\ExampleSocketClient2008\ExampleSocketClient2008\bin\Debug\Rebex.Networking.xml

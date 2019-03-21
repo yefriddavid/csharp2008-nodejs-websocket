@@ -1,0 +1,99 @@
+<doc>
+  <assembly>
+    <name>Rebex.WebSocket</name>
+  </assembly>
+  <members>
+    <member name="M:Rebex.Net.WebSocketClient.SetSocketFactory(Rebex.Net.ISocketFactory)">
+      <summary>
+            Sets the socket factory to be used to create communication sockets.
+            </summary>
+      <param name="factory">Socket factory.</param>
+    </member>
+    <member name="P:Rebex.Net.WebSocketClient.Settings">
+      <summary>
+            Gets an <see cref="T:Rebex.Net.WebSocketClientSettings" /> object.
+            </summary>
+      <value>
+        <see cref="T:Rebex.Net.WebSocketClientSettings" /> object.</value>
+    </member>
+    <member name="E:Rebex.Net.WebSocketClient.ValidatingCertificate">
+      <summary>
+            Occurs when a server certificate needs to be validated.
+            </summary>
+    </member>
+    <member name="P:Rebex.Net.WebSocketClient.Options">
+      <summary>
+            WebSocket options.
+            </summary>
+    </member>
+    <member name="P:Rebex.Net.WebSocketClient.Proxy">
+      <summary>
+            Gets or sets the network proxy to use to access a remote server.
+            </summary>
+      <value>The <see cref="P:Rebex.Net.WebSocketClient.Proxy" /> to use to access a remote server.</value>
+    </member>
+    <member name="T:Rebex.Net.WebSocketClientSettings">
+      <summary>
+            Specifies various WebSocket settings.
+            </summary>
+    </member>
+    <member name="M:Rebex.Net.WebSocketClientSettings.#ctor">
+      <summary>
+            Creates a new instance of <see cref="T:Rebex.Net.WebSocketClientSettings" />.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.NormalClosure">
+      <summary>
+            Default close reason.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.EndpointUnavailable">
+      <summary>
+            Server is going down or a browser have navigated away from a page.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.ProtocolError">
+      <summary>
+            Protocol error.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.InvalidMessageType">
+      <summary>
+            Received unexpected data type (text versus binary).
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.Empty">
+      <summary>
+            No close reason.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.InvalidPayloadData">
+      <summary>
+            Received inconsistent data (such as non-UTF-8 data within a text message).
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.PolicyViolation">
+      <summary>
+            No suitable code exists or there is a need to hide specific details.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.MessageTooBig">
+      <summary>
+            Message was too big to be processed.
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.MandatoryExtension">
+      <summary>
+            Mandatory extension is missing (only sent by clients).
+            </summary>
+    </member>
+    <member name="F:Rebex.Net.WebSocketCloseStatus.InternalServerError">
+      <summary>
+            Internal server error (only sent by servers).
+            </summary>
+    </member>
+    <member name="M:Rebex.Net.WebSocketClient.#ctor">
+      <summary>Creates an instance of <see cref="T:Rebex.Net.WebSocketClient" /> class.</summary>
+    </member>
+  </members>
+</doc>
